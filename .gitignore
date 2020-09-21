@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/pizza/build/
+/pizza/build/classes/java/main/
